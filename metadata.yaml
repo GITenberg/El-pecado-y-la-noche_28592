@@ -1,0 +1,30 @@
+_repo: El-pecado-y-la-noche_28592
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoyos y Vinent, Antonio de
+    aliases:
+    - Vinent, Antonio de Hoyos y
+    - Hoyos, Antonio de
+    birthdate: 1885
+    deathdate: 1940
+    gutenberg_agent_id: '33433'
+    url: http://www.gutenberg.org/2009/agents/33433
+    wikipedia: http://es.wikipedia.org/wiki/Antonio_de_Hoyos_y_Vinent
+description: ''
+gutenberg_issued: '2009-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28592'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature'
+- !lcc 'PQ'
+title: El pecado y la noche
+url: http://www.gutenberg.org/ebooks/28592
